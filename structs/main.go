@@ -3,12 +3,14 @@ package main
 import "fmt"
 
 type person struct {
-  name string
+  firstName string
+	lastName string
   contactInfo
 }
 
 type contactInfo struct {
   email string
+	zipCode int
 }
 
 func main() {
