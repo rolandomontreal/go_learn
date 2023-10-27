@@ -1,0 +1,1 @@
+This project is a simple follow along for a [udemy course on golang](https://www.udemy.com/course/go-the-complete-developers-guide/) with very simple example scripts and files for some of the language features.
